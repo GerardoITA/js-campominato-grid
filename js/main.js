@@ -18,7 +18,7 @@ for (const box of scatole) {
             this.classList.toggle("clicked");
 
         }   
-
+        console.log(i)
     });
 } 
 
